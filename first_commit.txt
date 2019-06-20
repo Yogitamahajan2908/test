@@ -1,0 +1,2 @@
+Your name and email address were configured automatically based
+on your username and hostname.
